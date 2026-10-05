@@ -36,7 +36,8 @@ dist/
 data/
 .context_forge*.db
 
-#other test files
+#other test files and folders
 tp*.py
 tp*.md
 tp*.txt
+tp*/
